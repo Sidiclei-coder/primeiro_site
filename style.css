@@ -1,0 +1,272 @@
+body {
+    background-color: rgb(73, 4, 4);
+    font-family: sans-serif;
+}
+ #covid{
+    display: grid;
+     background-color: rgb(73, 4, 4);
+     border: wheat 1px solid;
+     border-radius: 13px;
+     padding-left: 40px;
+     padding-right: 40px;
+     margin-bottom: 10px;
+     margin-left: 5%;
+     margin-right: 5%;
+     text-shadow: white 1px 1px 5px;
+     box-shadow: black 3px 3px 5px;
+}
+
+.logo{
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    margin-left: none;
+    margin-top: 5px;
+    border-radius: 15px;
+    text-shadow: white 1px 1px 5px;
+     box-shadow: black 3px 3px 5px;
+    justify-content: space-between;
+}
+
+._1g24rhq{
+    margin-bottom: 10px;
+    margin-left: 10%;
+    border: wheat 1px solid;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: space-between;
+}
+
+._g86r3e{
+    display: flex;
+    border: wheat 1px solid;
+    border-radius: 11px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 0%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-shadow: white 1px 1px 5px;
+    box-shadow: black 3px 3px 5px;
+}
+
+#cabecalho{
+    background-color: rgb(73, 4, 4);
+    border: white 1px solid;
+    border-radius: 10px;
+    padding-left: 50px;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: black 3px 3px 5px;
+    text-shadow: white 1px 1px 5px;
+}
+
+#imgloja{
+    display: flex;
+    width: 90%;
+    height: 50%;
+    margin-bottom: 8px;
+    margin-left: 60px;
+    border-radius: 15px;
+    box-shadow: black 3px 3px 5px;
+    text-shadow: white 1px 1px 5px;
+    
+}
+
+a {
+    font-family: sans-serif;
+    color: white;
+    text-decoration: unset;
+}
+
+#navebar{
+    background-color:rgb(73, 4, 4);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    text-shadow: white 1px 1px 5px;
+    box-shadow: black 3px 3px 5px;
+}
+
+#destaque{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 15px;
+    border: wheat 1px solid;
+    border-radius: 7px;
+    padding-left: 50px;
+    box-shadow: black 3px 3px 5px;
+    text-shadow: white 1px 1px 5px;
+}
+
+/*minha estilizaçao*/
+
+.card{
+    display: flex;
+    color:white;
+    margin-bottom: 3%;
+    margin-top: 10px;
+    padding-top: 0%;
+    padding-bottom:0%;
+    padding-left:0%;
+    padding-right:0%;
+    height:80%;
+    border-radius: 15px 2px 2px 5px;
+}
+
+.navbar-dark .navbar-toggler {
+    
+    border-color:#ff5a5f;
+    
+}
+
+.row{
+    display: flex;
+    margin-bottom: 0%;
+    margin-top:0%;
+    padding-top: 0%;
+    padding-bottom:0%;
+    padding-left:0%;
+    padding-right:0%;
+    height:80%;
+    border-radius: 15px 2px 2px 5px;
+}
+
+footer{
+text-align:center;
+color: white;
+
+
+}
+.card img{
+    display: flex;
+   height:50%;
+    background-color: dark;
+
+}
+.titulo{
+    display: flex;
+    padding:0%;
+    background-color: rgb(73, 4, 4);
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.valor{
+   display: flex;
+   background-color: dark;
+   margin-top: 0%;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+.tipos{
+   display: flex;
+   background-color: dark;
+   color:#ff5a5f;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-top: 10;
+}
+
+.card-title{
+    padding: 2%;
+    color:white;
+    font-family: 'Quicksand', sans-serif;
+    text-align: justify;
+    background-color: dark;
+}
+
+.card-text{
+    padding: 2%;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color:grey;
+    text-align:bottom;
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    color: white 1px 1px 5px;
+    font-size: 27px;
+    font-style: italic;
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-top: 5px;
+    text-shadow: white 1px 1px 5px;
+
+}
+
+#rodape{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(110, 110, 110);
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+#redesSociais{
+    display: grid;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 5%;
+    padding-left: 25px;
+    padding-bottom: 5px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 50px;
+}
+
+.rede{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#email{
+     margin-right: 50px;
+}
+
+#receba{
+    color: white;
+    margin-top: 25px;
+}
+
+input{ 
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    box-shadow: black 3px 3px 5px;
+}
+
+button{
+    color: white;
+    background-color: rgb(73, 4, 4);
+    width: 70px;
+    height: 40px;
+    border-radius: 4px;
+    border: white 1px solid;
+    text-shadow: white 1px 1px 5px;
+    box-shadow: black 3px 3px 5px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
